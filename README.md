@@ -13,6 +13,6 @@
 
 
 ## Source
-* (COURSE-pytorch) 이수안컴퓨터연구소 - https://www.youtube.com/watch?v=k60oT_8lyFw
-* (COURSE-DNN) IDEA FACTORY KAIST - https://youtube.com/playlist?list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd&si=38Kw_t90GrKvav1i 
-* (CODE-DNN) https://github.com/heartcored98/Standalone-DeepLearning
+* (COURSE) [이수안컴퓨터연구소 Youtube](https://www.youtube.com/watch?v=k60oT_8lyFw) : pytorch
+* (COURSE) [IDEA FACTORY KAIST Youtube](https://youtube.com/playlist?list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd&si=38Kw_t90GrKvav1i) : DNN
+* (CODE) [딥러닝 홀로서기 Github](https://github.com/heartcored98/Standalone-DeepLearning) : DNN
