@@ -6,7 +6,8 @@
 
 ## DNN
 * `lab1_linear_regression_with_pure_python.ipynb` : Gradient Descent Algorithm
-* `lab2_regression_with_pytorch.ipynb` : Linear Regression, Multiple Linear Regression 
+* `lab2_regression.ipynb`
+* `lab3_classification.ipynb`
 
 
 ## GNN
