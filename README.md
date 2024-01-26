@@ -8,6 +8,7 @@
 * `lab1_linear_regression_with_pure_python.ipynb` : Gradient Descent Algorithm
 * `lab2_regression.ipynb` : linear vs. mlp
 * `lab3_classification.ipynb` : linear vs. mlp
+* `lab4_hyperparameter_tuning.ipynb` : mlp on cifar10 dataset
 
 ### Assignment
 * `Assignment1_pytorch_MNIST_MLP.ipynb` : lab1 ~ lab3
