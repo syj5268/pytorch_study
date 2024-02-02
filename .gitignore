@@ -1,2 +1,8 @@
 ## MNIST data
 data/ 
+
+## module
+utils/__pycache__/
+
+## experiment results
+results/
