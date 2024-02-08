@@ -6,3 +6,8 @@ utils/__pycache__/
 
 ## experiment results
 results/
+
+## GNN
+Miniconda3-latest-Linux-x86_64.sh
+vocab.npy
+ZINC.smiles
