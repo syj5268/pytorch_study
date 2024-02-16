@@ -1,4 +1,10 @@
-# pytorch_study
+# PYTORCH STUDY SOURCE 
+
+## Source
+* (COURSE) [이수안컴퓨터연구소 Youtube](https://www.youtube.com/watch?v=k60oT_8lyFw) : pytorch
+* (COURSE) [IDEA FACTORY KAIST Youtube](https://youtube.com/playlist?list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd&si=38Kw_t90GrKvav1i) : DL
+* (CODE) [딥러닝 홀로서기 Github](https://github.com/heartcored98/Standalone-DeepLearning) : DL
+* (COURSE) [동빈나 Youtube](https://www.youtube.com/watch?v=AA621UofTUA&t=3877s) : Transformer
 
 ## pytorch
 * `파이토치(PyTorch)_한번에_끝내기.ipynb`
@@ -7,19 +13,18 @@
 * `lab1_linear_regression_with_pure_python.ipynb` : Gradient Descent Algorithm
 * `lab2_regression.ipynb` : linear vs. mlp
 * `lab3_classification.ipynb` : linear vs. mlp
-* `lab4_hyperparameter_tuning.ipynb` : mlp on cifar10 dataset
-* `lab5_regularization.ipynb` : mlp on cifar10 dataset + hyperparameter tuning
-* `lab6_result_report.ipynb` : mlp on cifar10 dataset + visulization
+* `lab4_hyperparameter_tuning.ipynb` : MLP on cifar10 dataset
+* `lab5_regularization.ipynb` : MLP on cifar10 dataset + hyperparameter tuning
+* `lab6_result_report.ipynb` : MLP on cifar10 dataset + visulization
 * `lab7_CIFAR-10_with_CNN.ipynb` : CNN on cifar10 dataset
 * `lab8_CIFAR-100_with_ResNet.ipynb` : CNN on cifar100 dataset
-* `lab9_RNN` : RNN basic
-* `lab10_LSTM` : LSTM for Stock Price Prediction
-* `lab11_Molecular_Graph_with_GCN` : GNN for Molecule logP Prediction
+* `lab9_RNN.ipynb` : RNN basic
+* `lab10_LSTM.ipynb` : LSTM for Stock Price Prediction
+* `lab11_Molecular_Graph_with_GCN.ipynb` : GNN for Molecule logP Prediction
+* `lab12_DCGAN_faces_tutorial.ipynb` : DCGAN for generating face images
 
 ### Assignment
 * `Assignment1_pytorch_MNIST_MLP.ipynb` : lab1 ~ lab3
 
-## Source
-* (COURSE) [이수안컴퓨터연구소 Youtube](https://www.youtube.com/watch?v=k60oT_8lyFw) : pytorch
-* (COURSE) [IDEA FACTORY KAIST Youtube](https://youtube.com/playlist?list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd&si=38Kw_t90GrKvav1i) : DL
-* (CODE) [딥러닝 홀로서기 Github](https://github.com/heartcored98/Standalone-DeepLearning) : DL
+## NLP
+* `Attention_is_All_You_Need_Tutorial_(German_English).ipynb` : Transformer for translation
